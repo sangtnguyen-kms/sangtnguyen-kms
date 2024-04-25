@@ -1,6 +1,10 @@
 
+> [!IMPORTANT]
+> This account is disable 'cause I "graduated" from KMS since May-2024
+
 
 Hello there !
+
 ![version :20.08.2021](https://img.shields.io/badge/version-21.01.2001-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=tsdocode&color=red)&nbsp;
 [![GitHub tsdocode](https://img.shields.io/github/followers/tsdocode?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
