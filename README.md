@@ -1,6 +1,6 @@
 
 > [!IMPORTANT]
-> This account is disable 'cause I "graduated" from KMS since May-2024
+> This account is disable 'cause I'm "graduated" from KMS since May-2024
 
 
 Hello there !
